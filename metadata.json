@@ -1,0 +1,5 @@
+{
+  "name": "AI Comic Strip Generator",
+  "description": "Enter any text (English or Korean) to automatically generate a comic strip, with each sentence becoming a panel. You can download the final comic as an image.",
+  "requestFramePermissions": []
+}
